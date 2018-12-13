@@ -30,8 +30,8 @@ http://localhost:3000
 
 The Backend of this project is deployed at Zeit Now and the Frontend is deployed at netlify
 
-[Frontend](https://5bed79df3813f0466aae502b--todoproject.netlify.com/) 
-[Backend](https://my-app-nkefnbuovn.now.sh). 
+* [Frontend](https://5bed79df3813f0466aae502b--todoproject.netlify.com/) 
+* [Backend](https://my-app-nkefnbuovn.now.sh). 
 
 ## Testing
 
