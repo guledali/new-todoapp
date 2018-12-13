@@ -41,8 +41,8 @@ Testing Graphql queries is mostly done with using Enzyme and jest to together to
 npm test
 ```
 
-Testing the graphql mutation was harder so I used cypress for because it's easier to simlute event handling and integration test in. 
-In order to run cypress run type the following command
+Testing the graphql mutation was harder so I used cypress for because it's easier to simlute event handling and integration test. 
+
 
 ```
 npm run cypress
